@@ -1,0 +1,58 @@
+[
+  {
+    "name" :  "Australian dollar",
+    "code" : "AUD"
+  },
+  {
+    "name" : "Bitcoin",
+    "code" : "BTC"
+  },
+  {
+    "name" : "Canadian Dollar",
+    "code": "CAD"
+  },
+  {
+    "name" : "Chinese renminbi",
+    "code" : "CNH"
+  },
+  {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  {
+    "name": "Ethereum",
+    "code": "ETH"
+  },
+  {
+    "name": "Hong Kong dollar",
+    "code": "HKD"
+  },
+  {
+    "name": "Japanese yen",
+    "code": "JPY"
+  },
+  {
+    "name": "Litecoin",
+    "code": "LTC"
+  },
+  {
+    "name": "Pound Sterling",
+    "code": "GBP"
+  },
+  {
+    "name": "Ripple",
+    "code": "XRP"
+  },
+  {
+    "name": "US Dollar",
+    "code": "USD"
+  },
+  {
+    "name": "Swiss Franc",
+    "code": "CHF"
+  },
+  {
+    "name": "Tether",
+    "code": "USDT"
+  }
+]
