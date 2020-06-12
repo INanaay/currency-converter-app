@@ -1,9 +1,8 @@
 import axios from 'axios';
 
-const apiUrl = 'http://localhost:3000/';
+const apiUrl = 'https://shrouded-mountain-35551.herokuapp.com/';
 
 export default {
-  // eslint-disable-next-line no-unused-vars
   convertCurrency(from, to, value) {
     const url = `${apiUrl}convert`;
     return axios.get(encodeURI(url), { params:
